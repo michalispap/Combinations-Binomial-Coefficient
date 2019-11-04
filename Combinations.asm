@@ -1,4 +1,4 @@
-#PAPAPETROS MICHAIL 3180149
+#Binomial Coefficient Calculator
 .text
 .globl run
 run:
